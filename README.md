@@ -1,5 +1,14 @@
-This is a test
+<h1>Troy Kettle</h1>
+<h3>Machine Learning PhD Student</h3>
 
-I want to know if it works
+<p>
+PhD student at the University of Nottingham. Researching machine learning for the detection of clinical deterioration in respiratory patients. 
 
-and also how it looks
+I received my undergraduate degree from Keele University in Computer Science (Artificial Intelligence) achieving a first class classification.
+
+I am interested in Machine Learning / Deep learning in Medicine, Finance and math of disciplines.
+
+Please get in contact if you wish to work, research or build together.
+
+Troykettle19@gmail.com
+</p>
