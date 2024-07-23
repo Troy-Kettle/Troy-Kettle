@@ -10,5 +10,6 @@ I am interested in Machine Learning / Deep learning in Medicine, Finance and mat
 
 Please get in contact if you wish to work, research or build together.
 
-Troykettle19@gmail.com
+troykettle19@gmail.com
+https://www.linkedin.com/in/troy-kettle-8b0a8b219/
 </p>
