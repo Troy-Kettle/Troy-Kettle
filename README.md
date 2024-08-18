@@ -14,5 +14,5 @@ troykettle19@gmail.com
 <br>
 https://www.linkedin.com/in/troy-kettle-8b0a8b219/
 <br>
-<a href='troykettle.com'>troykettle.com</a>
+<a href='troykettle.com'>https://www.troykettle.com</a>
 </p>
