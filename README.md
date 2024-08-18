@@ -13,4 +13,6 @@ Please get in contact if you wish to work, research or build together.
 troykettle19@gmail.com
 <br>
 https://www.linkedin.com/in/troy-kettle-8b0a8b219/
+<br>
+troykettle.com
 </p>
