@@ -5,7 +5,8 @@ Final-year PhD Researcher in Computer Science and Computational Medicine at the 
 Machine learning architectures for the detection of clinical deterioration. Designing intelligent systems to replace existing clinical models and quantify patient risk.   
 
 ### Technical Focus:
-Translational medical informatics, predictive modeling, and building interpretable algorithmic frameworks for complex tabular data.
+Translational medical informatics, predictive modeling, and building interpretable algorithmic frameworks for complex tabular data. <br>
+Proficient in high-performance Python and C++ development, with a strong foundation in R for statistical modeling and computational medicine.
 
 ### Interests:
 Theory -> Fuzzy Systems, Control Theory, Dynamical Systems, Probabilistic Modelling <br>
