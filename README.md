@@ -8,7 +8,7 @@ Machine learning architectures for the detection of clinical deterioration. Desi
 Translational medical informatics, predictive modeling, and building interpretable algorithmic frameworks for complex tabular data.
 
 ### Interests:
-Theory -> Fuzzy Systems, Control Theory, Dynamical Systems, Probabilistic Modelling
+Theory -> Fuzzy Systems, Control Theory, Dynamical Systems, Probabilistic Modelling <br>
 Applied ML -> Deep Learning, Time-Series Data, Interpretability
 
 #### Contact Details:
