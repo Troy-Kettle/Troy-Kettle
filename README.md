@@ -1,5 +1,5 @@
 # About Me
-Final-year PhD Researcher in Computer Science and Computational Medicine at the University of Nottingham. First-Class Honours degree in Computer Science (Artificial Intelligence) from Keele University, achieving 90% for my dissertation (highest across the university in my year).
+Final-year Machine Learning PhD Researcher in Computer Science and Computational Medicine at the University of Nottingham. First-Class Honours degree in Computer Science (Artificial Intelligence) from Keele University, achieving 90% for my dissertation (highest across the university in my year).
 
 ### Research Focus:
 Machine learning architectures for the detection of clinical deterioration. Designing intelligent systems to replace existing clinical models and quantify patient risk.   
