@@ -20,6 +20,4 @@ https://troykettle.com/
 
 ### [Helix 1.0 (Fork)](https://github.com/Troy-Kettle/Helix)
 **Core Contributor** 
-*An Open-Source Framework for Reproducible and Interpretable Machine Learning on Tabular Scientific Data.*
-> ⚠️ **Note on Contribution History:** Original development commits were authored via a legacy institutional account (`@uni-handle`) that has since been decommissioned. Full framework architecture and codebase ownership are maintained via this verified fork.
-* Published in *Patterns* (Cell Press), 2026.
+Note: Due to a security decommissioning of the underlying legacy institutional development domain, original commit authorship strings are preserved via the official journal publication byline rather than active Git metadata)
